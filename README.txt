@@ -1,1 +1,1 @@
-##.PlayerCover
+platzi.com##.PlayerCover
