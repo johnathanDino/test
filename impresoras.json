@@ -1,5 +1,5 @@
 {
-	"impresoras" : [
+	"impresora" : [
 		"Marca": "HP",
 		"Modelo": "HP LaserJet Pro P1102w",
 		"TipoImpresion" : "Láser",
