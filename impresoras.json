@@ -178,5 +178,20 @@
 		"TamañoEscaner": "Oficio",
 		"TamañoImpresion": "Oficio",
 		"Imagen": "https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c05656063.png"
+	},
+	{
+		"id" : "13", 
+		"Marca": "EPSON",
+		"Modelo": "Stylus TX420W",
+		"TipoImpresion" : "Tinta",
+		"VelocidadNegro": "8 ppm Negro",
+		"VelocidadColor": "5 ppm Negro",
+		"Funciones": "Multifunción",
+		"ConectividadWifi": "no",
+		"ConectividadEthernet": "no",
+		"ConectividadUSB": "si",
+		"TamañoEscaner": "Oficio",
+		"TamañoImpresion": "Oficio",
+		"Imagen": "https://mediaserver.goepson.com/ImConvServlet/imconv/6a2040b9c9dfbfc414a86d6b04e79e1796c9bb8e/515Wx515H?use=productpictures&assetDescr=tx420w_hero_color"
 	}
 ]
