@@ -133,5 +133,35 @@
 		"TamañoEscaner": "",
 		"TamañoImpresion": "Oficio",
 		"Imagen": "https://www.ricoh-americalatina.com/-/media/Ricoh/Common/Images/products/Equipment/Listing/Eqp-MP-C307-tile"
+	},
+	{
+		"id" : "10", 
+		"Marca": "HP",
+		"Modelo": "M426fdw",
+		"TipoImpresion" : "Láser",
+		"VelocidadNegro": "38 ppm Negro",
+		"VelocidadColor": " - ",
+		"Funciones": "Multifunción",
+		"ConectividadWifi": "si",
+		"ConectividadEthernet": "si",
+		"ConectividadUSB": "si",
+		"TamañoEscaner": "Oficio",
+		"TamañoImpresion": "Oficio",
+		"Imagen": "https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c04815993.png"
+	},
+	{
+		"id" : "11", 
+		"Marca": "HP",
+		"Modelo": "M631dn",
+		"TipoImpresion" : "Láser",
+		"VelocidadNegro": "52 ppm Negro",
+		"VelocidadColor": " - ",
+		"Funciones": "Multifunción",
+		"ConectividadWifi": "si",
+		"ConectividadEthernet": "si",
+		"ConectividadUSB": "si",
+		"TamañoEscaner": "Oficio",
+		"TamañoImpresion": "Oficio",
+		"Imagen": "https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c05510741.png"
 	}
 ]
