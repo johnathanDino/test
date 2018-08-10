@@ -163,5 +163,20 @@
 		"TamañoEscaner": "Oficio",
 		"TamañoImpresion": "Oficio",
 		"Imagen": "https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c05510741.png"
+	},
+	{
+		"id" : "12", 
+		"Marca": "HP",
+		"Modelo": "M631dn",
+		"TipoImpresion" : "Tinta",
+		"VelocidadNegro": "8 ppm Negro",
+		"VelocidadColor": "5 ppm Negro",
+		"Funciones": "Multifunción",
+		"ConectividadWifi": "no",
+		"ConectividadEthernet": "no",
+		"ConectividadUSB": "si",
+		"TamañoEscaner": "Oficio",
+		"TamañoImpresion": "Oficio",
+		"Imagen": "https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c05656063.png"
 	}
 ]
